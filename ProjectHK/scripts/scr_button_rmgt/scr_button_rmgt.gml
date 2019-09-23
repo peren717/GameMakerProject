@@ -1,4 +1,4 @@
-if (mouse_check_button(mb_left))
+if (mouse_check_button_released(mb_left))
 {
 	if (position_meeting(mouse_x,mouse_y,argument0))
 	{

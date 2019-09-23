@@ -1,1 +1,1 @@
-scr_titlerm_creation();
+scr_write("gameNum",0);
