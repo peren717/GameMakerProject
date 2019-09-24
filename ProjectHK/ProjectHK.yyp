@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "063a4ab0-9567-4fc3-8cb8-dfef16470086",
+            "Value": {
+                "id": "5e95d24d-18c0-4c57-be18-2fd56cd10f25",
+                "resourcePath": "sprites\\spr_cop\\spr_cop.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0666eeeb-0a0e-4514-8287-624eb9af2f89",
             "Value": {
                 "id": "acff764c-3a43-4a3e-b81c-f9f8e0397f66",
@@ -108,6 +116,14 @@
                 "id": "a76227d8-3685-4683-a822-67e2a6f73229",
                 "resourcePath": "scripts\\scr_read\\scr_read.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "2231a75c-131d-47db-864f-d6829786ea15",
+            "Value": {
+                "id": "45baf321-630d-460b-bbbf-07d9ed12b9e2",
+                "resourcePath": "sprites\\spr_petrolbomb\\spr_petrolbomb.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -380,6 +396,14 @@
                 "id": "65d32527-af0f-4f02-a1c2-a3d4604db664",
                 "resourcePath": "scripts\\scr_spawnRioter\\scr_spawnRioter.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "ba72ad4b-c298-48c6-b1e7-fb6299d63a77",
+            "Value": {
+                "id": "663b5edb-80de-45ad-bcdc-65bd69d70ef9",
+                "resourcePath": "sprites\\spr_terrorist\\spr_terrorist.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

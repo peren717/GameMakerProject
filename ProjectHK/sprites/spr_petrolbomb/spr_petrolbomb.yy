@@ -2,7 +2,7 @@
     "id": "2231a75c-131d-47db-864f-d6829786ea15",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_burningbottle",
+    "name": "spr_petrolbomb",
     "For3D": false,
     "HTile": false,
     "VTile": false,

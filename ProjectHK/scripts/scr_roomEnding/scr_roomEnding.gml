@@ -1,3 +1,13 @@
+if global.picNum == 1
+{
+	scr_write("money",global.money);
+	scr_write("score",score);
+	scr_write("ammu",global.ammu);
+	room_goto(rm_store);
+	exit;
+}
+
+
 if (wait == 60 && i<=global.picNum)
 {
 	if i == global.picNum
