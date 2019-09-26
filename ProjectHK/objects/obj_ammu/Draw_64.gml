@@ -1,1 +1,1 @@
-scr_drawWhiteText(string(global.ammu));
+scr_drawWhiteText("Film: "+string(global.ammu));

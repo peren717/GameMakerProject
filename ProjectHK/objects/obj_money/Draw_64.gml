@@ -1,1 +1,1 @@
-scr_drawWhiteText(string(global.money));
+scr_drawWhiteText("$: "+string(global.money));

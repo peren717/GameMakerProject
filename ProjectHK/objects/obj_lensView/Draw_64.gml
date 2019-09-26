@@ -10,7 +10,7 @@ if(mouse_check_button_pressed(mb_left) && obj_timer.remainingTime>0 && global.am
 	global.ammu--;
 }
 
-if(obj_timer.remainingTime==0)
+if(obj_timer.remainingTime==0 || global.ammu <=0)
 {
 	window_set_cursor(cr_arrow);	
 	sprite_index = spr_empty;

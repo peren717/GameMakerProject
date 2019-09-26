@@ -1,1 +1,1 @@
-scr_drawWhiteText(string(score));
+scr_drawWhiteText("INF: "+string(score));
