@@ -119,14 +119,6 @@
             }
         },
         {
-            "Key": "18122bce-54c8-425d-b860-be03b17b91fc",
-            "Value": {
-                "id": "6c5313ca-44bb-4daa-b253-81a818ade1e9",
-                "resourcePath": "sprites\\spr_rioter\\spr_rioter.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "1ededf00-8631-4405-956e-0408b6e8d11b",
             "Value": {
                 "id": "40443adb-1137-4de4-938c-44bc4bab6f43",
