@@ -8,6 +8,7 @@ if(mouse_check_button_pressed(mb_left) && obj_timer.remainingTime>0 && global.am
 	pic = instance_create_depth(830-global.picNum*5,600-global.picNum*5,0,obj_pic);
 	global.pics[global.picNum-1] = pic;
 	global.ammu--;
+	instance_create_layer(0,0,"Instances",obj_flash);
 }
 
 if(obj_timer.remainingTime==0 || global.ammu <=0)

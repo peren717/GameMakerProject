@@ -1,7 +1,8 @@
 /// @description 
 if remainingTime >0
 {
-	step--;
+	if !obj_controller.levelEnd
+		step--;
 }
 if step ==0
 {
