@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "0cfb3516-f2aa-4628-89d5-707b48933aac",
+            "Value": {
+                "id": "09c2897d-7b7e-465b-990f-621851444df6",
+                "resourcePath": "sprites\\spr_terrorist_attack\\spr_terrorist_attack.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1074697e-fc36-4083-9162-a0d002ab9839",
             "Value": {
                 "id": "6a204ab7-e32e-4a92-b853-e3811d97302a",
@@ -159,6 +167,14 @@
             }
         },
         {
+            "Key": "29e88edf-d04e-4b8c-9fe8-3f721c46206f",
+            "Value": {
+                "id": "8c3edf54-c7ae-4854-912b-be24e0e6bb59",
+                "resourcePath": "sprites\\spr_baton_0\\spr_baton_0.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "391efd1d-3ce6-471d-b57d-8eba5e4b6fa0",
             "Value": {
                 "id": "49095494-7a0c-4802-b200-b61d25d6123e",
@@ -212,6 +228,14 @@
                 "id": "7b7155a7-ce78-4155-9642-efe3ebe37c14",
                 "resourcePath": "views\\4e1132d5-2622-4a34-9ae5-3ce549965465.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "534c240b-9828-4b52-b10e-0f20520fb683",
+            "Value": {
+                "id": "4d1ab2ec-c8b3-4cd4-9d2f-89547e217f25",
+                "resourcePath": "sprites\\spr_baton_180\\spr_baton_180.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -295,6 +319,14 @@
             }
         },
         {
+            "Key": "7ee6ca0d-8456-4c6d-8327-90fdc346f5e7",
+            "Value": {
+                "id": "03257eec-7e03-4e1c-b50f-20d3427a9933",
+                "resourcePath": "sprites\\spr_cop_melee_stand\\spr_cop_melee_stand.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7f7b54c9-432b-4317-be07-1bd9a17bb8b5",
             "Value": {
                 "id": "cbdbae4e-6502-4d27-b52f-d03db74d0a88",
@@ -356,6 +388,14 @@
                 "id": "39af4417-ecce-4d1b-987c-e9bc2e7e001c",
                 "resourcePath": "views\\95d95ec9-7799-4409-bc95-a3e1f0dbec5a.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "998c0d0d-2a57-46d6-a569-2485c2b1cf24",
+            "Value": {
+                "id": "59e2da08-c033-48b5-b169-d8299b2b887c",
+                "resourcePath": "sprites\\spr_baton_90\\spr_baton_90.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -450,7 +490,7 @@
             "Key": "ba72ad4b-c298-48c6-b1e7-fb6299d63a77",
             "Value": {
                 "id": "663b5edb-80de-45ad-bcdc-65bd69d70ef9",
-                "resourcePath": "sprites\\spr_terrorist\\spr_terrorist.yy",
+                "resourcePath": "sprites\\spr_terrorist_stand\\spr_terrorist_stand.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -468,6 +508,14 @@
                 "id": "e4e1f73e-b8d3-48f5-8c9c-bdcefed916b0",
                 "resourcePath": "objects\\obj_button_buyTicket\\obj_button_buyTicket.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c17697b5-63bf-4e27-a9a7-92970a8d92c0",
+            "Value": {
+                "id": "47902542-6b46-4976-83e8-97452527672e",
+                "resourcePath": "sprites\\spr_cop_melee_attack\\spr_cop_melee_attack.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
