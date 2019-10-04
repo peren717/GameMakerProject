@@ -5,15 +5,9 @@ if obj_controller.levelEnd ==true
 	instance_deactivate_object(self);
 }
 
-if alarm[0] = 0
-{
-	direction = random_range(0,360);
-	if (random(5)>0 && obj_controller.levelEnd == false)
-	{
-		instance_create_layer(x,y,"Instances",obj_pb);
-	}
-	alarm[0] = 30;
-}
+
+scr_pb_throw();
+
 
 if x<0 
 {
