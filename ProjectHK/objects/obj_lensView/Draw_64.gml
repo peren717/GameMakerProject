@@ -2,6 +2,7 @@
 
 if(mouse_check_button_pressed(mb_left) && obj_timer.remainingTime>0 && global.ammu >0)
 {
+	sprite_index = spr_empty;
 	screen_save_part(working_directory +"game"+string(global.gameNum)+"\\\Pictures\\\pic_"+string(global.picNum)+".png",x-240,y-120,480,240);
 	show_debug_message("pic taken" + string(global.picNum))
 	global.picNum++;
@@ -9,6 +10,7 @@ if(mouse_check_button_pressed(mb_left) && obj_timer.remainingTime>0 && global.am
 	global.pics[global.picNum-1] = pic;
 	global.ammu--;
 	instance_create_layer(0,0,"Instances",obj_flash);
+	sprite_index = spr_lensView;
 }
 
 if(obj_timer.remainingTime==0 || global.ammu <=0)
