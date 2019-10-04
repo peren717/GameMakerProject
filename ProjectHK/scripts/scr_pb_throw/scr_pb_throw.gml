@@ -7,5 +7,12 @@ if alarm[0] = 0
 		instance_create_layer(x,y,"Instances",obj_pb);
 	}
 	alarm[0] = random_range(30,60);
-	sprite_index = spr_terrorist_stand;
+	alarm[1] =15;
+	speed = 0;
+}
+
+if alarm[1] = 0
+{
+	sprite_index = spr_terrorist_stand;	
+	speed = 10;
 }
