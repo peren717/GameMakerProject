@@ -1,4 +1,4 @@
 /// @description Timer
 
-remainingTime = 60+round(6*score/1000);
+remainingTime = 40;
 step =30;

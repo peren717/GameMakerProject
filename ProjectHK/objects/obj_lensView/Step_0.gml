@@ -14,3 +14,5 @@ if global.ammu==0
 {
 	mask_index = spr_empty;
 }
+
+image_index = 4-round(obj_timer.remainingTime/10);
