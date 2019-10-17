@@ -1,1 +1,5 @@
-scr_drawWhiteText("INF: "+string(score));
+if !instance_exists(obj_flash)
+{
+	scr_drawWhiteText("INF: "+string(score));
+}
+

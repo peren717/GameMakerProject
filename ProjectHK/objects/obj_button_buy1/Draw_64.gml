@@ -1,1 +1,1 @@
-scr_button_draw("Buy 1 Film");
+scr_button_draw("Film");

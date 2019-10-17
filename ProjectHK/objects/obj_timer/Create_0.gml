@@ -1,4 +1,4 @@
 /// @description Timer
 
-remainingTime = 40;
+remainingTime = 10;
 step =30;

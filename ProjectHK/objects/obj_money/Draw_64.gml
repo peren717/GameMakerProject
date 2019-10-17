@@ -1,1 +1,4 @@
-scr_drawWhiteText("$: "+string(global.money));
+if !instance_exists(obj_flash)
+{
+	scr_drawWhiteText("$: "+string(global.money));
+}

@@ -14,4 +14,4 @@ if global.ammu==0
 	mask_index = spr_empty;
 }
 
-image_index = 4-round(obj_timer.remainingTime/10);
+image_index = 4-round(4*obj_timer.remainingTime/max_time);
