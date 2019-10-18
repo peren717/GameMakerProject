@@ -303,6 +303,14 @@
             }
         },
         {
+            "Key": "6f65954e-8c89-4406-8f99-7c4401d986cb",
+            "Value": {
+                "id": "86d640f9-d035-4f1e-8cdd-0f5d6cb8e85e",
+                "resourcePath": "sprites\\spr_citycenter\\spr_citycenter.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "73bda199-d370-45dd-be7e-4b3ad5b010b8",
             "Value": {
                 "id": "210a0471-26e6-4294-bb38-2fc5d3a666bf",
@@ -407,6 +415,14 @@
             }
         },
         {
+            "Key": "8850e02a-3902-4de9-8411-2a19b40649e0",
+            "Value": {
+                "id": "2eba18f5-605a-44fe-9f22-852ebc8c6a38",
+                "resourcePath": "sprites\\spr_citycenter_night\\spr_citycenter_night.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8b2b9bdc-89ba-4545-9982-2d99984b186b",
             "Value": {
                 "id": "4f5fc22f-39e1-41c8-9995-308188b4d685",
@@ -460,6 +476,14 @@
                 "id": "0c91c259-c5a8-4646-b046-5ab781054d67",
                 "resourcePath": "views\\9a15e18b-db34-4843-a1df-44c0a00ddedc.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9c71eaca-a095-4f4c-858a-d0e99356b6f4",
+            "Value": {
+                "id": "d8a17804-f24a-4948-905f-20abccb1fbdd",
+                "resourcePath": "sprites\\spr_citycenter_morning\\spr_citycenter_morning.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -715,6 +739,14 @@
             "Value": {
                 "id": "7c163805-a103-4a2a-98fb-b9d6b9d84ec4",
                 "resourcePath": "sprites\\spr_lensView\\spr_lensView.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f482454e-5817-4b5f-8b9c-492234ece5e9",
+            "Value": {
+                "id": "226e276f-b371-4f25-abdf-0c9052a33bfc",
+                "resourcePath": "sprites\\spr_citycenter_afternoon\\spr_citycenter_afternoon.yy",
                 "resourceType": "GMSprite"
             }
         },
