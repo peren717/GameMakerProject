@@ -1,6 +1,6 @@
 if alarm[0] = 0
 {
-	sprite_index = spr_terrorist_attack;
+	sprite_index = spr_rioter_attack;
 	direction = random_range(0,360);
 	if (random(5)>0 && obj_controller.levelEnd == false)
 	{
@@ -13,6 +13,6 @@ if alarm[0] = 0
 
 if alarm[1] = 0
 {
-	sprite_index = spr_terrorist_stand;	
+	sprite_index = spr_rioter_stand;	
 	speed = 10;
 }
