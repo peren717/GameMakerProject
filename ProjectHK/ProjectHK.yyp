@@ -271,6 +271,14 @@
             }
         },
         {
+            "Key": "5e9f4bae-34c0-4111-9a38-dd190a380584",
+            "Value": {
+                "id": "cc630a8f-c9d6-487a-8044-25633ba07a30",
+                "resourcePath": "sprites\\spr_citizen_afraid\\spr_citizen_afraid.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "60315639-0ee2-4426-a6b4-6325b3e2b9b6",
             "Value": {
                 "id": "419327a1-4c82-4138-b865-28303d41e9c2",
@@ -292,6 +300,14 @@
                 "id": "c230f01d-85c9-46dc-8d2a-99a151eea49a",
                 "resourcePath": "scripts\\scr_button_draw\\scr_button_draw.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "639deab2-c87a-44c1-bf6a-96b625192572",
+            "Value": {
+                "id": "d385e2ca-abf9-4ec4-b198-40aaee217894",
+                "resourcePath": "sprites\\spr_citizen_injured\\spr_citizen_injured.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -407,6 +423,14 @@
             }
         },
         {
+            "Key": "83f29128-7def-408c-84d7-260b8d3f6902",
+            "Value": {
+                "id": "37ef029c-6c47-450b-b85c-2f5ad838d13f",
+                "resourcePath": "sprites\\spr_citizen_green\\spr_citizen_green.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "83f35edd-38f2-4c90-bd48-7e09313718af",
             "Value": {
                 "id": "0b9fa4de-96f4-469b-ba61-1197891b283c",
@@ -444,6 +468,30 @@
                 "id": "eff53957-30a9-4c62-8265-8160b0d5fb59",
                 "resourcePath": "objects\\obj_button3\\obj_button3.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8cf0236f-9044-45bb-b743-7b36a2a10bfa",
+            "Value": {
+                "id": "a9642cf7-aefc-4250-a7e6-2f9c596f2b4c",
+                "resourcePath": "sprites\\spr_citizen_green_afraid\\spr_citizen_green_afraid.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8e1c638c-0e0e-4f28-b065-9dd62becff5d",
+            "Value": {
+                "id": "57bb8b97-1e4b-4dd0-bd21-d7099672a9de",
+                "resourcePath": "views\\8e1c638c-0e0e-4f28-b065-9dd62becff5d.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9249fe12-41a4-4bf5-8d60-6aa3f187bb7e",
+            "Value": {
+                "id": "de9ef5f7-5465-4a0b-8206-161a461b718e",
+                "resourcePath": "sprites\\spr_smallfire\\spr_smallfire.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -711,6 +759,14 @@
             }
         },
         {
+            "Key": "d424ef89-dcc9-457b-a514-c3830bc2a1e9",
+            "Value": {
+                "id": "fd0f2dfa-2864-461a-8189-cb0c486544bb",
+                "resourcePath": "sprites\\spr_citizen\\spr_citizen.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d61b29f1-d98e-49a6-baca-77c430e8385a",
             "Value": {
                 "id": "b12d87be-1953-4dfd-a018-e2dbc20e79a3",
@@ -727,6 +783,14 @@
             }
         },
         {
+            "Key": "d8aba45b-ec71-4a3f-b79b-88ba6e641ff3",
+            "Value": {
+                "id": "91e1ad12-3ad5-4df6-96c3-c46180984197",
+                "resourcePath": "sprites\\spr_fruitstandbroken\\spr_fruitstandbroken.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e0d92eca-04b9-4a12-9956-a08d7debf239",
             "Value": {
                 "id": "640253a3-01b6-4a80-aa3d-cd4eeededf4d",
@@ -735,19 +799,19 @@
             }
         },
         {
-            "Key": "e14670a2-519c-4f03-8f5a-8e593e039b56",
-            "Value": {
-                "id": "1d0d3d48-7707-4bf2-b2f1-b66e1141fa20",
-                "resourcePath": "sprites\\spr_fruitstand_onfire\\spr_fruitstand_onfire.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "e4b1ca82-04b0-4d3a-b8aa-192a503e3402",
             "Value": {
                 "id": "7115df93-71d6-414a-9ead-6a050e144c5b",
                 "resourcePath": "views\\e4b1ca82-04b0-4d3a-b8aa-192a503e3402.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e52b5272-6653-4b86-9433-fe5bd7d8ad29",
+            "Value": {
+                "id": "3289b005-268a-4503-91de-04d0c189a959",
+                "resourcePath": "sprites\\spr_bigfire\\spr_bigfire.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -764,6 +828,14 @@
                 "id": "5fbd2801-df5f-4457-895a-dec8e6c0a182",
                 "resourcePath": "objects\\obj_button2\\obj_button2.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e6c234bf-22c1-4cb9-9fda-3e1bd980f2c0",
+            "Value": {
+                "id": "61b8bb67-318a-456a-a6fc-a96cead4b009",
+                "resourcePath": "views\\e6c234bf-22c1-4cb9-9fda-3e1bd980f2c0.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
