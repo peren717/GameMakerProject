@@ -279,6 +279,14 @@
             }
         },
         {
+            "Key": "5566cb46-3498-46e4-964c-d476ac4961fe",
+            "Value": {
+                "id": "f2f55d3d-afcc-4aab-a771-def31ce8bf99",
+                "resourcePath": "sprites\\spr_rioter_down\\spr_rioter_down.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5e6b035e-e830-4fcd-8bcb-5f16af3fe49d",
             "Value": {
                 "id": "daaa66cb-0863-4e05-b3e4-d09bb93ae032",
