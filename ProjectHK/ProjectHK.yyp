@@ -215,6 +215,14 @@
             }
         },
         {
+            "Key": "354521d8-6f89-481b-810d-3a7f337482e3",
+            "Value": {
+                "id": "d547b353-322b-4d76-92fd-430cf7fb782b",
+                "resourcePath": "sprites\\spr_newspaperFrame\\spr_newspaperFrame.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "391efd1d-3ce6-471d-b57d-8eba5e4b6fa0",
             "Value": {
                 "id": "49095494-7a0c-4802-b200-b61d25d6123e",
@@ -308,6 +316,14 @@
                 "id": "c230f01d-85c9-46dc-8d2a-99a151eea49a",
                 "resourcePath": "scripts\\scr_button_draw\\scr_button_draw.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "628d1e40-a096-407c-a007-4f80a6f1652e",
+            "Value": {
+                "id": "d8faa8bd-681a-40c8-8544-4224d0616f2c",
+                "resourcePath": "sprites\\spr_square\\spr_square.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -847,10 +863,10 @@
             }
         },
         {
-            "Key": "e0d92eca-04b9-4a12-9956-a08d7debf239",
+            "Key": "e0234df0-4206-4436-9abb-d4be36b1f484",
             "Value": {
-                "id": "640253a3-01b6-4a80-aa3d-cd4eeededf4d",
-                "resourcePath": "objects\\obj_trashbin_down\\obj_trashbin_down.yy",
+                "id": "5b8ef679-4b01-48dc-a733-e4c1562c85a7",
+                "resourcePath": "objects\\obj_fire\\obj_fire.yy",
                 "resourceType": "GMObject"
             }
         },

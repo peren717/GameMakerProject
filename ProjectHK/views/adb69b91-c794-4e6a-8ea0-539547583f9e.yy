@@ -11,10 +11,12 @@
         "5e6b035e-e830-4fcd-8bcb-5f16af3fe49d",
         "f85b990b-4eab-4581-b91c-238160d9c3e3",
         "1074697e-fc36-4083-9162-a0d002ab9839",
-        "eb1746b8-86fd-4154-a3f2-745eb3b8a1c8"
+        "eb1746b8-86fd-4154-a3f2-745eb3b8a1c8",
+        "354521d8-6f89-481b-810d-3a7f337482e3",
+        "628d1e40-a096-407c-a007-4f80a6f1652e"
     ],
     "filterType": "GMSprite",
-    "folderName": "Text",
+    "folderName": "Text and UI",
     "isDefaultView": false,
     "localisedFolderName": ""
 }
