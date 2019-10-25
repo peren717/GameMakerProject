@@ -151,6 +151,14 @@
             }
         },
         {
+            "Key": "13f57334-a822-46ec-af04-a2935f44eb5b",
+            "Value": {
+                "id": "86825dd1-be6b-448e-b431-f9ba31b2865c",
+                "resourcePath": "sprites\\spr_shopassistant_rioter_stand\\spr_shopassistant_rioter_stand.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "178aebac-de03-4cf4-b089-07e5238dbbff",
             "Value": {
                 "id": "db6c55c0-741c-40d3-9b3c-18df0e3b8091",
@@ -644,6 +652,14 @@
                 "id": "b8324f6c-2bee-477d-b408-2ab91fbc2945",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "acafbf86-2807-4a5d-9e96-df086bfe5f8d",
+            "Value": {
+                "id": "c9054da4-f8dd-4559-840f-4e308088943d",
+                "resourcePath": "sprites\\spr_shopassistant_rioter_attack\\spr_shopassistant_rioter_attack.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
