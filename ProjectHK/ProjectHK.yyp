@@ -215,6 +215,14 @@
             }
         },
         {
+            "Key": "25e68fff-4689-4084-97bb-8722b4cc3af6",
+            "Value": {
+                "id": "54d0a417-e05d-4945-89d9-5a2876ad98c1",
+                "resourcePath": "sprites\\spr_citizen2\\spr_citizen2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "26eba0b6-b988-4b08-bd71-8cb5abbfc9bb",
             "Value": {
                 "id": "b55630a6-a28f-4107-9185-a382b23beb08",
@@ -239,6 +247,14 @@
             }
         },
         {
+            "Key": "322e504f-9d55-4d05-b830-7d900c5ea986",
+            "Value": {
+                "id": "e0fd6aa3-e49e-4247-917a-0c797f5964e7",
+                "resourcePath": "sprites\\spr_cop_rioter_attack\\spr_cop_rioter_attack.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "354521d8-6f89-481b-810d-3a7f337482e3",
             "Value": {
                 "id": "d547b353-322b-4d76-92fd-430cf7fb782b",
@@ -252,6 +268,14 @@
                 "id": "49095494-7a0c-4802-b200-b61d25d6123e",
                 "resourcePath": "scripts\\scr_roomEnding\\scr_roomEnding.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "39b97b9b-dcc4-465c-aa1e-6245e1e7b112",
+            "Value": {
+                "id": "a7dd8b8a-91fd-4f50-8d91-38b5bee9c70e",
+                "resourcePath": "sprites\\spr_citizen2_injured\\spr_citizen2_injured.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -407,6 +431,14 @@
             }
         },
         {
+            "Key": "70f71441-1479-43f9-9d3e-c759996917e2",
+            "Value": {
+                "id": "d09cd616-4fae-4d37-adf6-2bd770ba84a7",
+                "resourcePath": "sprites\\spr_shopassistant_rioter_down\\spr_shopassistant_rioter_down.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "73bda199-d370-45dd-be7e-4b3ad5b010b8",
             "Value": {
                 "id": "210a0471-26e6-4294-bb38-2fc5d3a666bf",
@@ -455,6 +487,14 @@
             }
         },
         {
+            "Key": "7d4a7d1a-264a-43e8-bbb0-512f875b79d4",
+            "Value": {
+                "id": "c710a7bd-35d6-49f8-96de-110f11da1e63",
+                "resourcePath": "sprites\\spr_cop_rioter_stand\\spr_cop_rioter_stand.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7ee6ca0d-8456-4c6d-8327-90fdc346f5e7",
             "Value": {
                 "id": "03257eec-7e03-4e1c-b50f-20d3427a9933",
@@ -492,14 +532,6 @@
                 "id": "c3f44b29-feb2-43f9-a196-3c9ea148c42f",
                 "resourcePath": "rooms\\rm_store\\rm_store.yy",
                 "resourceType": "GMRoom"
-            }
-        },
-        {
-            "Key": "83f29128-7def-408c-84d7-260b8d3f6902",
-            "Value": {
-                "id": "37ef029c-6c47-450b-b85c-2f5ad838d13f",
-                "resourcePath": "sprites\\spr_citizen_green\\spr_citizen_green.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -551,10 +583,10 @@
             }
         },
         {
-            "Key": "8cf0236f-9044-45bb-b743-7b36a2a10bfa",
+            "Key": "8dca3c46-767b-4970-b30c-16d88a2622d0",
             "Value": {
-                "id": "a9642cf7-aefc-4250-a7e6-2f9c596f2b4c",
-                "resourcePath": "sprites\\spr_citizen_green_afraid\\spr_citizen_green_afraid.yy",
+                "id": "1c4d8810-5273-4bde-bd10-2c6361836ab5",
+                "resourcePath": "sprites\\spr_cop_rioter_down\\spr_cop_rioter_down.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -731,6 +763,14 @@
             "Value": {
                 "id": "663b5edb-80de-45ad-bcdc-65bd69d70ef9",
                 "resourcePath": "sprites\\spr_rioter_stand\\spr_rioter_stand.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "bc52892c-c3f3-4040-bbc1-aab954a204ad",
+            "Value": {
+                "id": "f69b008c-b807-4b97-917f-965f91fa5705",
+                "resourcePath": "sprites\\spr_citizen_rioter_down\\spr_citizen_rioter_down.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -983,6 +1023,14 @@
             }
         },
         {
+            "Key": "ea76966b-1bcf-4735-b12b-41f2497b775b",
+            "Value": {
+                "id": "65c37ee3-fc9a-4aaa-b59f-0d7be0e4ceec",
+                "resourcePath": "sprites\\spr_citizen2_afraid\\spr_citizen2_afraid.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "eb1746b8-86fd-4154-a3f2-745eb3b8a1c8",
             "Value": {
                 "id": "9902a146-167d-4607-869d-ac0b4acd5cd9",
@@ -1004,6 +1052,14 @@
                 "id": "af1b7c80-d349-46f0-a573-1578282eaf43",
                 "resourcePath": "views\\eccf31de-47e3-423e-a7c3-8666993af45c.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ee80b98a-e09d-4a23-b40a-ac42285f4c45",
+            "Value": {
+                "id": "881ceb9a-62d9-49b8-9248-2723735cddd2",
+                "resourcePath": "sprites\\spr_citizen_rioter_attack\\spr_citizen_rioter_attack.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1036,6 +1092,14 @@
                 "id": "7e792b9a-1d73-4365-bb6f-b7a85a94572e",
                 "resourcePath": "objects\\obj_fruitstand\\obj_fruitstand.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f5c1235c-e3d8-4fb5-b983-f229d930889f",
+            "Value": {
+                "id": "e9814207-728b-452e-81c9-5e6666057389",
+                "resourcePath": "sprites\\spr_citizen_rioter_stand\\spr_citizen_rioter_stand.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
