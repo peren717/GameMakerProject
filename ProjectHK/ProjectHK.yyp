@@ -143,6 +143,14 @@
             }
         },
         {
+            "Key": "13c2ab6f-6675-4f5d-aec2-0060d5b9ecdf",
+            "Value": {
+                "id": "5fae9b2f-3bb8-4780-9569-65f77f11239c",
+                "resourcePath": "sprites\\sprite42\\sprite42.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "178aebac-de03-4cf4-b089-07e5238dbbff",
             "Value": {
                 "id": "db6c55c0-741c-40d3-9b3c-18df0e3b8091",
@@ -204,6 +212,14 @@
                 "id": "b55630a6-a28f-4107-9185-a382b23beb08",
                 "resourcePath": "sprites\\spr_cop_range_attack\\spr_cop_range_attack.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "2804ebc7-3db5-4463-8d26-2aacf9aa3877",
+            "Value": {
+                "id": "77a7a7ef-40db-4776-ad6b-5f6834df4091",
+                "resourcePath": "rooms\\rm_win\\rm_win.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
