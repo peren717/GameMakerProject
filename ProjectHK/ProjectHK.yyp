@@ -143,14 +143,6 @@
             }
         },
         {
-            "Key": "13c2ab6f-6675-4f5d-aec2-0060d5b9ecdf",
-            "Value": {
-                "id": "5fae9b2f-3bb8-4780-9569-65f77f11239c",
-                "resourcePath": "sprites\\sprite42\\sprite42.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "13f57334-a822-46ec-af04-a2935f44eb5b",
             "Value": {
                 "id": "86825dd1-be6b-448e-b431-f9ba31b2865c",
@@ -239,6 +231,14 @@
             }
         },
         {
+            "Key": "2e1372f7-3076-4d2e-805a-a42c88d9a544",
+            "Value": {
+                "id": "2a287dc8-6dea-47be-bbad-8b60ade20af3",
+                "resourcePath": "sprites\\spr_citycenter_endgame\\spr_citycenter_endgame.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "31faabd7-d531-4b0d-9b04-f3921d32f064",
             "Value": {
                 "id": "1eeca9a5-9356-459c-8fbf-ae0f1e1ce47b",
@@ -275,6 +275,14 @@
             "Value": {
                 "id": "a7dd8b8a-91fd-4f50-8d91-38b5bee9c70e",
                 "resourcePath": "sprites\\spr_citizen2_injured\\spr_citizen2_injured.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "3f8a9fea-dc80-4f04-b6ac-1fcf53343600",
+            "Value": {
+                "id": "688b6db8-062c-4255-a415-dcec92b145ac",
+                "resourcePath": "sprites\\spr_crack\\spr_crack.yy",
                 "resourceType": "GMSprite"
             }
         },
