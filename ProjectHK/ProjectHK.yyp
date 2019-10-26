@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "013767ef-494d-4007-9cba-daa2aaf656f0",
+            "Value": {
+                "id": "a1823a1d-dd04-4c59-86fd-32485693cbf5",
+                "resourcePath": "sprites\\spr_ambulance\\spr_ambulance.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "03fae52b-b02b-4fc0-ac7e-7235035aa9d6",
             "Value": {
                 "id": "af256b33-da35-47f2-bd0b-d223ca9e68a4",
@@ -647,6 +655,22 @@
             }
         },
         {
+            "Key": "93fe5102-1ec8-417a-89d1-a72ecc8484fe",
+            "Value": {
+                "id": "ae7110f0-644e-48da-ab41-399468a71b0e",
+                "resourcePath": "sprites\\spr_ambulance_back\\spr_ambulance_back.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "94fe6b51-57c0-4baa-8d2a-2bc7a22e56f1",
+            "Value": {
+                "id": "b6101fa0-9b59-4b98-abbe-eaf290c782c5",
+                "resourcePath": "sprites\\spr_policecar\\spr_policecar.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "95d95ec9-7799-4409-bc95-a3e1f0dbec5a",
             "Value": {
                 "id": "39af4417-ecce-4d1b-987c-e9bc2e7e001c",
@@ -823,11 +847,27 @@
             }
         },
         {
+            "Key": "bf337f67-4d84-44c2-b9a2-985174069976",
+            "Value": {
+                "id": "285dcaa3-cc2b-4abf-add7-6781ef5cce61",
+                "resourcePath": "views\\bf337f67-4d84-44c2-b9a2-985174069976.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "c02f4f47-c84d-439b-b6ab-e7032356f32e",
             "Value": {
                 "id": "e4e1f73e-b8d3-48f5-8c9c-bdcefed916b0",
                 "resourcePath": "objects\\obj_button_buyTicket\\obj_button_buyTicket.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c0b075c7-8d2b-472b-bc9b-acbccfa1fdcc",
+            "Value": {
+                "id": "c85fec02-8392-49de-bf94-eceb1e6959da",
+                "resourcePath": "sprites\\spr_policecar_back\\spr_policecar_back.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -996,6 +1036,14 @@
                 "id": "91e1ad12-3ad5-4df6-96c3-c46180984197",
                 "resourcePath": "sprites\\spr_fruitstandbroken\\spr_fruitstandbroken.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e1817f6e-d114-4946-ad70-87db3be7eddc",
+            "Value": {
+                "id": "36d7471f-2dde-482d-ad6a-7f381ac7ba2e",
+                "resourcePath": "views\\e1817f6e-d114-4946-ad70-87db3be7eddc.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
