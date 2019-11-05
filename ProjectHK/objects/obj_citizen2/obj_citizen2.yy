@@ -1,10 +1,19 @@
 {
-    "id": "2b138070-41c9-47f6-ad76-8254757ea462",
+    "id": "67d9a763-60dc-4a0e-9d43-4d51c78e7875",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_shopassistant",
+    "name": "obj_citizen2",
     "eventList": [
-        
+        {
+            "id": "93679017-685b-4755-b71d-76681932da2a",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "67d9a763-60dc-4a0e-9d43-4d51c78e7875"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -24,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "c2d84504-d836-4090-abb6-37ca61f7bc70",
+    "spriteId": "25e68fff-4689-4084-97bb-8722b4cc3af6",
     "visible": true
 }
