@@ -919,6 +919,14 @@
             }
         },
         {
+            "Key": "b43747fe-727d-4337-be2c-a026724adce0",
+            "Value": {
+                "id": "939a5c31-a719-423b-86e7-dbe4fbb62c0f",
+                "resourcePath": "sprites\\spr_endText\\spr_endText.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b53de00e-6994-402c-84a7-7ba7c1240ba1",
             "Value": {
                 "id": "a525612a-6b91-4a62-b87a-3ab4864e5ae2",
@@ -1372,6 +1380,14 @@
                 "id": "e9814207-728b-452e-81c9-5e6666057389",
                 "resourcePath": "sprites\\spr_citizen_rioter_stand\\spr_citizen_rioter_stand.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f669f594-3c7f-4b37-964a-348d0b4149cf",
+            "Value": {
+                "id": "aaac0efe-a6c8-4dde-9ef9-6b5000e90783",
+                "resourcePath": "objects\\obj_endText\\obj_endText.yy",
+                "resourceType": "GMObject"
             }
         },
         {

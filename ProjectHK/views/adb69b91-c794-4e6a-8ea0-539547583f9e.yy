@@ -13,7 +13,8 @@
         "eb1746b8-86fd-4154-a3f2-745eb3b8a1c8",
         "354521d8-6f89-481b-810d-3a7f337482e3",
         "628d1e40-a096-407c-a007-4f80a6f1652e",
-        "79c973fa-89a4-4cce-88be-e1dc198f4cc0"
+        "79c973fa-89a4-4cce-88be-e1dc198f4cc0",
+        "b43747fe-727d-4337-be2c-a026724adce0"
     ],
     "filterType": "GMSprite",
     "folderName": "Text and UI",
