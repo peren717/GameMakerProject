@@ -17,8 +17,10 @@ if (mouse_check_button_released(mb_left))
 		global.money =0;
 		global.ammu = 10;
 		score = 0;
+		global.bp=0;
 		scr_write("money",0);
 		scr_write("ammu",10);
 		scr_write("score",0);	
+		scr_write("bp",0);
 	}
 }

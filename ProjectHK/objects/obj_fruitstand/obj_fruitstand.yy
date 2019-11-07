@@ -4,7 +4,36 @@
     "mvc": "1.0",
     "name": "obj_fruitstand",
     "eventList": [
-        
+        {
+            "id": "2ce3ffe3-3c36-4b01-9d45-56ee62159f99",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "f55f9dce-1e92-4ada-91ce-acee3694ea2a"
+        },
+        {
+            "id": "ec506295-26e9-4fb2-9619-e3c889e3a5b5",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "f55f9dce-1e92-4ada-91ce-acee3694ea2a"
+        },
+        {
+            "id": "6edaf876-97aa-4d72-8023-36af0b83010d",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 2,
+            "m_owner": "f55f9dce-1e92-4ada-91ce-acee3694ea2a"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

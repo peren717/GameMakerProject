@@ -1,1 +1,1 @@
-scr_button_draw("Battery");
+scr_button_draw("Battery $30");

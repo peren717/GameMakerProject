@@ -6,6 +6,8 @@ if (mouse_check_button_released(mb_left))
 		{
 			global.money -=25;
 			global.ammu+=1;
+			audio_play_sound(snd_cash,0,false);
+			
 		}
 	}
 }

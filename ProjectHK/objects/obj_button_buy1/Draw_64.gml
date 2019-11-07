@@ -1,1 +1,1 @@
-scr_button_draw("Film");
+scr_button_draw("Film $25");

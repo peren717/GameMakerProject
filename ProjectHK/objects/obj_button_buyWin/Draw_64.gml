@@ -1,1 +1,1 @@
-scr_button_draw("Win");
+scr_button_draw("Win $10000");

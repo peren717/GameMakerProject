@@ -4,7 +4,7 @@ if obj_controller.levelEnd ==true
 }
 
 
-scr_pb_throw();
+scr_throw();
 
 
 if x<0 

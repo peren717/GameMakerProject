@@ -1,3 +1,5 @@
-speed = 10;
+speed = 3;
 direction = random_range(0,360);
-alarm[0] = 30;
+dead= false;
+depth = 1;
+
