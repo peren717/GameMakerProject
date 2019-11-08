@@ -159,6 +159,14 @@
             }
         },
         {
+            "Key": "16606fb2-7809-42a8-982a-a5a8ec851b13",
+            "Value": {
+                "id": "5d899636-e033-43bf-b195-0064c9fa0f67",
+                "resourcePath": "sprites\\spr_story\\spr_story.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "175d1306-0c1b-4823-88ee-a5fe999fe42f",
             "Value": {
                 "id": "f2a6e0f0-4665-466c-949c-aa56f0c376eb",
@@ -460,6 +468,14 @@
                 "id": "d385e2ca-abf9-4ec4-b198-40aaee217894",
                 "resourcePath": "sprites\\spr_citizen_injured\\spr_citizen_injured.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "66f43562-b16c-43a4-ad98-6ac7a63d9110",
+            "Value": {
+                "id": "d3aea93d-41ef-4725-b0da-c2f6a311eb2e",
+                "resourcePath": "objects\\obj_story\\obj_story.yy",
+                "resourceType": "GMObject"
             }
         },
         {
