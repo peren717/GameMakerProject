@@ -1,4 +1,4 @@
-if (mouse_check_button_released(mb_left) && global.money >=10000)
+if (mouse_check_button_released(mb_left) && global.money >=2000)
 {
 	if (position_meeting(mouse_x,mouse_y,self))
 	{
