@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "0bc6203c-a813-4ee1-9791-c55cd55d2e1a",
+            "Value": {
+                "id": "9d7e851d-e1f1-4180-916a-e6b6a8cc5fd8",
+                "resourcePath": "sprites\\spr_titleBackground\\spr_titleBackground.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0cfb3516-f2aa-4628-89d5-707b48933aac",
             "Value": {
                 "id": "09c2897d-7b7e-465b-990f-621851444df6",
@@ -572,6 +580,14 @@
                 "id": "210a0471-26e6-4294-bb38-2fc5d3a666bf",
                 "resourcePath": "objects\\obj_button1\\obj_button1.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "758a090f-b2eb-4d19-90d9-ff25ebfc8013",
+            "Value": {
+                "id": "27ea2330-4b86-480e-b166-d4f425190bbb",
+                "resourcePath": "sprites\\spr_titleBackground_Ingame\\spr_titleBackground_Ingame.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
