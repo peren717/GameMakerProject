@@ -1391,6 +1391,14 @@
             }
         },
         {
+            "Key": "ee2638e8-5240-4977-92d8-ae09a837b8ce",
+            "Value": {
+                "id": "b30cffde-c356-4ed7-8bf9-82bf8e01ff0b",
+                "resourcePath": "sprites\\spr_peaceman\\spr_peaceman.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ee80b98a-e09d-4a23-b40a-ac42285f4c45",
             "Value": {
                 "id": "881ceb9a-62d9-49b8-9248-2723735cddd2",
