@@ -10,7 +10,9 @@
         "d03a3bee-d60e-4e6f-a91e-c03ebe4c6236",
         "26eba0b6-b988-4b08-bd71-8cb5abbfc9bb",
         "ee2638e8-5240-4977-92d8-ae09a837b8ce",
-        "65a9cfdc-c535-4fae-b501-098b98204b52"
+        "65a9cfdc-c535-4fae-b501-098b98204b52",
+        "d7e84388-f996-4f17-bc3f-5443be7781da",
+        "2e2c8890-5335-4634-a94b-aad5c5c95de6"
     ],
     "filterType": "GMSprite",
     "folderName": "Cops",

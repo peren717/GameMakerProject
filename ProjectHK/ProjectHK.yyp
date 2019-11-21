@@ -303,6 +303,14 @@
             }
         },
         {
+            "Key": "2e2c8890-5335-4634-a94b-aad5c5c95de6",
+            "Value": {
+                "id": "fefe9d22-3eb2-4d6c-b7e5-5470218ab2ad",
+                "resourcePath": "sprites\\spr_peaceman_died\\spr_peaceman_died.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "31faabd7-d531-4b0d-9b04-f3921d32f064",
             "Value": {
                 "id": "1eeca9a5-9356-459c-8fbf-ae0f1e1ce47b",
@@ -1308,6 +1316,14 @@
                 "id": "b12d87be-1953-4dfd-a018-e2dbc20e79a3",
                 "resourcePath": "scripts\\scr_spawnCop\\scr_spawnCop.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "d7e84388-f996-4f17-bc3f-5443be7781da",
+            "Value": {
+                "id": "e57bedf8-e50b-4752-965d-d3881307b586",
+                "resourcePath": "sprites\\spr_peaceman_die\\spr_peaceman_die.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
