@@ -391,6 +391,14 @@
             }
         },
         {
+            "Key": "481940cd-8a3e-40f9-afb6-b269da19f560",
+            "Value": {
+                "id": "079382c6-aff7-4b27-b3ad-fab9778e611f",
+                "resourcePath": "sprites\\spr_intro\\spr_intro.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4ae73e10-4d3c-4168-8190-c66671020073",
             "Value": {
                 "id": "513505ef-46ce-4ff8-b21c-edb6d42dbb4e",
@@ -427,14 +435,6 @@
             "Value": {
                 "id": "f1b71eff-9f7d-40e1-ab9c-5b73da98906b",
                 "resourcePath": "sprites\\spr_brick\\spr_brick.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "5b74ed32-030b-476a-81bb-510d87e7e454",
-            "Value": {
-                "id": "d484c26a-603c-4802-a0b9-2bd8b0551383",
-                "resourcePath": "sprites\\spr_peaceman_move\\spr_peaceman_move.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -491,6 +491,14 @@
             "Value": {
                 "id": "d385e2ca-abf9-4ec4-b198-40aaee217894",
                 "resourcePath": "sprites\\spr_citizen_injured\\spr_citizen_injured.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "65a9cfdc-c535-4fae-b501-098b98204b52",
+            "Value": {
+                "id": "251ca368-6c36-42e5-b0a2-c20a39435f71",
+                "resourcePath": "sprites\\spr_peaceman_move\\spr_peaceman_move.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -855,14 +863,6 @@
             }
         },
         {
-            "Key": "971aa798-a65d-4617-93b6-16e77fbb9408",
-            "Value": {
-                "id": "057238d9-15ab-4066-ab09-d795b73efaf7",
-                "resourcePath": "sprites\\spr_citycenter_cutscene\\spr_citycenter_cutscene.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "97a78363-0ee4-47b7-b515-e42ab320c4af",
             "Value": {
                 "id": "642af861-25bf-4c59-a39f-b5fc3afb975f",
@@ -892,6 +892,14 @@
                 "id": "0c91c259-c5a8-4646-b046-5ab781054d67",
                 "resourcePath": "views\\9a15e18b-db34-4843-a1df-44c0a00ddedc.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9bc6d343-8a64-4591-a7ab-bbf146406c2d",
+            "Value": {
+                "id": "24ee891e-40ec-4ac0-8ede-692b95094437",
+                "resourcePath": "sprites\\spr_citycenter_cutscene\\spr_citycenter_cutscene.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1047,11 +1055,11 @@
             }
         },
         {
-            "Key": "b9985cb0-cf04-4b26-9c84-f05275690ade",
+            "Key": "ba41b083-2ff6-4926-81d7-9ae89156a4a1",
             "Value": {
-                "id": "fe999338-23a1-4ea0-9eaf-b01c9faf0006",
-                "resourcePath": "objects\\obj_peaceMaker\\obj_peaceMaker.yy",
-                "resourceType": "GMObject"
+                "id": "e9af9c0d-078e-4f87-96d1-cd0fe7c7c176",
+                "resourcePath": "rooms\\rm_intro\\rm_intro.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -1428,6 +1436,14 @@
                 "id": "881ceb9a-62d9-49b8-9248-2723735cddd2",
                 "resourcePath": "sprites\\spr_citizen_rioter_attack\\spr_citizen_rioter_attack.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f03d7d82-b8f2-453d-94d4-9838baff19c4",
+            "Value": {
+                "id": "cea8180d-86dc-4411-8a1b-fab7fdb20729",
+                "resourcePath": "objects\\obj_intro\\obj_intro.yy",
+                "resourceType": "GMObject"
             }
         },
         {
