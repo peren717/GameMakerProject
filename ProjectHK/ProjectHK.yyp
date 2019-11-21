@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "01225100-662b-4842-ad14-b01fc9158a73",
+            "Value": {
+                "id": "903c5f8a-d0b8-48e6-af94-6a5d8fa5f71e",
+                "resourcePath": "objects\\obj_story1\\obj_story1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "013767ef-494d-4007-9cba-daa2aaf656f0",
             "Value": {
                 "id": "a1823a1d-dd04-4c59-86fd-32485693cbf5",
@@ -223,6 +231,14 @@
             }
         },
         {
+            "Key": "2137621e-b663-42b0-b788-530fc7edc300",
+            "Value": {
+                "id": "1a533d71-b19c-41cd-898e-e2e7aaa1d4a1",
+                "resourcePath": "objects\\obj_story2\\obj_story2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "21be0694-98cd-4c41-bfa3-e6c2780bc34f",
             "Value": {
                 "id": "a76227d8-3685-4683-a822-67e2a6f73229",
@@ -359,6 +375,14 @@
             }
         },
         {
+            "Key": "3e241520-b534-4746-9227-0e46a2b87349",
+            "Value": {
+                "id": "b3dc7e72-a666-4886-83ac-8141d3daabba",
+                "resourcePath": "sprites\\spr_story1\\spr_story1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3f8a9fea-dc80-4f04-b6ac-1fcf53343600",
             "Value": {
                 "id": "688b6db8-062c-4255-a415-dcec92b145ac",
@@ -439,6 +463,14 @@
             }
         },
         {
+            "Key": "579a2c79-9494-48f8-8d23-b53a7d698a46",
+            "Value": {
+                "id": "9b70fc44-e9b2-4546-8f56-d7027411e005",
+                "resourcePath": "sprites\\spr_story2\\spr_story2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5b121189-4615-40ee-a48b-b9560b016264",
             "Value": {
                 "id": "f1b71eff-9f7d-40e1-ab9c-5b73da98906b",
@@ -508,14 +540,6 @@
                 "id": "251ca368-6c36-42e5-b0a2-c20a39435f71",
                 "resourcePath": "sprites\\spr_peaceman_move\\spr_peaceman_move.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "66f43562-b16c-43a4-ad98-6ac7a63d9110",
-            "Value": {
-                "id": "d3aea93d-41ef-4725-b0da-c2f6a311eb2e",
-                "resourcePath": "objects\\obj_story\\obj_story.yy",
-                "resourceType": "GMObject"
             }
         },
         {
