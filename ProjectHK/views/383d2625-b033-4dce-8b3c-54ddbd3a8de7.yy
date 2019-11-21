@@ -21,10 +21,7 @@
         "fd477faf-188b-460c-af75-bd27bf066682",
         "d9ca118c-6d3b-4817-9134-76004da41be5",
         "883fad78-048b-4c92-a163-e20f659b39aa",
-        "f669f594-3c7f-4b37-964a-348d0b4149cf",
-        "f03d7d82-b8f2-453d-94d4-9838baff19c4",
-        "01225100-662b-4842-ad14-b01fc9158a73",
-        "2137621e-b663-42b0-b788-530fc7edc300"
+        "f03d7d82-b8f2-453d-94d4-9838baff19c4"
     ],
     "filterType": "GMObject",
     "folderName": "Texts",
