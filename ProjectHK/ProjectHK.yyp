@@ -431,6 +431,14 @@
             }
         },
         {
+            "Key": "5b74ed32-030b-476a-81bb-510d87e7e454",
+            "Value": {
+                "id": "d484c26a-603c-4802-a0b9-2bd8b0551383",
+                "resourcePath": "sprites\\spr_peaceman_move\\spr_peaceman_move.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5e6b035e-e830-4fcd-8bcb-5f16af3fe49d",
             "Value": {
                 "id": "daaa66cb-0863-4e05-b3e4-d09bb93ae032",
@@ -844,6 +852,14 @@
                 "id": "39af4417-ecce-4d1b-987c-e9bc2e7e001c",
                 "resourcePath": "views\\95d95ec9-7799-4409-bc95-a3e1f0dbec5a.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "971aa798-a65d-4617-93b6-16e77fbb9408",
+            "Value": {
+                "id": "057238d9-15ab-4066-ab09-d795b73efaf7",
+                "resourcePath": "sprites\\spr_citycenter_cutscene\\spr_citycenter_cutscene.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
