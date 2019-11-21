@@ -15,6 +15,6 @@ if(mouse_check_button_pressed(mb_left) && !levelEnd)
 
 if(image_alpha<=1)
 {
-	image_alpha+=0.5
+	image_alpha+=0.05
 }
 

@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "086ad3ca-bc16-4625-ba77-d66741db5f06",
+            "Value": {
+                "id": "3146e110-78a7-451e-8955-7aef7db0c5b2",
+                "resourcePath": "objects\\obj_gasRelease\\obj_gasRelease.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0ab9850c-a70d-411d-a6cc-47d981df23fa",
             "Value": {
                 "id": "50f8552b-a20b-4531-be41-5f21457d7604",
@@ -975,6 +983,14 @@
             }
         },
         {
+            "Key": "a5bd0470-7dd2-4f6e-b47a-88a7b4ed6d89",
+            "Value": {
+                "id": "2deca537-d96a-462c-bbc9-dd392f70320a",
+                "resourcePath": "objects\\obj_gasEffect\\obj_gasEffect.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a7a99a67-1af7-45d5-b30c-b58f8b019b3d",
             "Value": {
                 "id": "fb4564e3-e76b-45ca-871e-386fe33f1bdb",
@@ -1039,11 +1055,27 @@
             }
         },
         {
+            "Key": "b30174fa-631b-4b5e-b864-e13e2a3ce4f1",
+            "Value": {
+                "id": "c3f95d62-32ba-4636-9540-6ef21a20a65c",
+                "resourcePath": "objects\\obj_gas\\obj_gas.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b43747fe-727d-4337-be2c-a026724adce0",
             "Value": {
                 "id": "939a5c31-a719-423b-86e7-dbe4fbb62c0f",
                 "resourcePath": "sprites\\spr_endText\\spr_endText.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b538d8ad-d4be-4868-98be-c3ab4328411b",
+            "Value": {
+                "id": "1026a954-809c-415e-8084-511e2cf71b5e",
+                "resourcePath": "scripts\\scr_throwCop\\scr_throwCop.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -1618,6 +1650,7 @@
         "871949e7-365b-420c-bda5-8be92214c409",
         "c830e7d8-30d6-4dcf-b951-28a2849c3e65",
         "99461f63-db2f-44e4-bc8a-2e0872714480",
+        "b538d8ad-d4be-4868-98be-c3ab4328411b",
         "7b617910-2375-46b7-9e2d-16ffee783174",
         "c5e5033b-1d70-4c3a-b36a-727ee339b671",
         "81b004c1-40d4-46e1-a077-a568636aceb6"

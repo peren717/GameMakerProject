@@ -1,1 +1,1 @@
-scr_button_draw("Fake News $50");
+scr_button_draw("Fake News $100");

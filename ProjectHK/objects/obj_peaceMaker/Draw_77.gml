@@ -1,1 +1,1 @@
-scr_assignPoint(point);
+scr_assignPoint(point); 
