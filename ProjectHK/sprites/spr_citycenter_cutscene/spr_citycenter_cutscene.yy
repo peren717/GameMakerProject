@@ -1,5 +1,5 @@
 {
-    "id": "971aa798-a65d-4617-93b6-16e77fbb9408",
+    "id": "9bc6d343-8a64-4591-a7ab-bbf146406c2d",
     "modelName": "GMSprite",
     "mvc": "1.12",
     "name": "spr_citycenter_cutscene",
@@ -16,24 +16,24 @@
     "edgeFiltering": false,
     "frames": [
         {
-            "id": "7fc6c512-0ca5-4cd3-b7ab-998af5526c7d",
+            "id": "eca2bb0b-66ba-4296-8be7-1a12d8557f47",
             "modelName": "GMSpriteFrame",
             "mvc": "1.0",
-            "SpriteId": "971aa798-a65d-4617-93b6-16e77fbb9408",
+            "SpriteId": "9bc6d343-8a64-4591-a7ab-bbf146406c2d",
             "compositeImage": {
-                "id": "3ad20730-9773-4b99-be3a-55bd053ffa52",
+                "id": "5da65c98-a1f5-4578-b97e-338e45ef3a3f",
                 "modelName": "GMSpriteImage",
                 "mvc": "1.0",
-                "FrameId": "7fc6c512-0ca5-4cd3-b7ab-998af5526c7d",
+                "FrameId": "eca2bb0b-66ba-4296-8be7-1a12d8557f47",
                 "LayerId": "00000000-0000-0000-0000-000000000000"
             },
             "images": [
                 {
-                    "id": "16241baa-d908-4783-974f-46957de30266",
+                    "id": "01f6cd1e-97b3-44ee-a59b-a721ab0fc4ec",
                     "modelName": "GMSpriteImage",
                     "mvc": "1.0",
-                    "FrameId": "7fc6c512-0ca5-4cd3-b7ab-998af5526c7d",
-                    "LayerId": "00b7dcb7-d77b-40b0-973c-a4dafb7ee1d7"
+                    "FrameId": "eca2bb0b-66ba-4296-8be7-1a12d8557f47",
+                    "LayerId": "7fb645b0-5f78-4524-962e-a52c0e1d88ef"
                 }
             ]
         }
@@ -43,10 +43,10 @@
     "height": 768,
     "layers": [
         {
-            "id": "00b7dcb7-d77b-40b0-973c-a4dafb7ee1d7",
+            "id": "7fb645b0-5f78-4524-962e-a52c0e1d88ef",
             "modelName": "GMImageLayer",
             "mvc": "1.0",
-            "SpriteId": "971aa798-a65d-4617-93b6-16e77fbb9408",
+            "SpriteId": "9bc6d343-8a64-4591-a7ab-bbf146406c2d",
             "blendMode": 0,
             "isLocked": false,
             "name": "default",
@@ -144,6 +144,6 @@
     "textureGroupId": "1225f6b0-ac20-43bd-a82e-be73fa0b6f4f",
     "type": 0,
     "width": 1024,
-    "xorig": 324,
-    "yorig": 353
+    "xorig": 636,
+    "yorig": 306
 }
