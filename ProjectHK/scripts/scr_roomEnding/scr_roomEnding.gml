@@ -1,4 +1,9 @@
-
+if(mouse_check_button(mb_left))
+{
+	room_speed = 60;
+}else{
+	room_speed = 30;
+}
 
 if (wait >= 60 && i<=global.picNum)
 {
