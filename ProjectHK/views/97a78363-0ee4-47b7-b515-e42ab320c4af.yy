@@ -10,7 +10,10 @@
         "8b6dc1e7-9f9f-4449-b67b-f1fee44a08dd",
         "175d1306-0c1b-4823-88ee-a5fe999fe42f",
         "fd9ac92f-0b8e-4895-a0a4-b6740c3dbf78",
-        "aa26df0b-bcba-4514-ae64-df69fef5dc58"
+        "aa26df0b-bcba-4514-ae64-df69fef5dc58",
+        "b30174fa-631b-4b5e-b864-e13e2a3ce4f1",
+        "086ad3ca-bc16-4625-ba77-d66741db5f06",
+        "a5bd0470-7dd2-4f6e-b47a-88a7b4ed6d89"
     ],
     "filterType": "GMObject",
     "folderName": "Weapons & Effects",
