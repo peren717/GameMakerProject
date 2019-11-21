@@ -4,7 +4,7 @@
     "mvc": "1.0",
     "IsDnDProject": false,
     "configs": [
-
+        
     ],
     "option_ecma": false,
     "parentProject": {
@@ -25,7 +25,7 @@
             }
         ],
         "hiddenResources": [
-
+            
         ],
         "projectPath": "${base_project}"
     },
@@ -831,6 +831,14 @@
             }
         },
         {
+            "Key": "7dcaf190-7fbb-43a4-99c8-10130b83cb18",
+            "Value": {
+                "id": "4fd82431-3d53-451c-b45d-e0b96c80b848",
+                "resourcePath": "sprites\\spr_flight\\spr_flight.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7ee6ca0d-8456-4c6d-8327-90fdc346f5e7",
             "Value": {
                 "id": "03257eec-7e03-4e1c-b50f-20d3427a9933",
@@ -1300,6 +1308,14 @@
                 "id": "65d32527-af0f-4f02-a1c2-a3d4604db664",
                 "resourcePath": "scripts\\scr_spawnRioter\\scr_spawnRioter.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "b9d68e97-6845-49a6-ac99-4b728ae531b4",
+            "Value": {
+                "id": "07a5f17d-c6b8-4bad-bfe3-760b4b8316c8",
+                "resourcePath": "objects\\obj_flight\\obj_flight.yy",
+                "resourceType": "GMObject"
             }
         },
         {

@@ -6,7 +6,8 @@
     "children": [
         "15f4e25c-d23c-4b1c-9775-c2776098fbe7",
         "6faaceb3-f34f-4c1a-9703-324b13717bca",
-        "3e193da9-fc6d-440f-b383-fd38e3afbde7"
+        "3e193da9-fc6d-440f-b383-fd38e3afbde7",
+        "b9d68e97-6845-49a6-ac99-4b728ae531b4"
     ],
     "filterType": "GMObject",
     "folderName": "FinalScene",
