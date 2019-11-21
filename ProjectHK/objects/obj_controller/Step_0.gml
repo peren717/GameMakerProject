@@ -2,6 +2,7 @@ if(obj_timer.remainingTime == 0 || global.ammu <=0)
 {
 	instance_destroy(obj_introduction);
 	sprite_index = spr_black;
+	depth=-999;
 	image_alpha = 0.5;
 	levelEnd =true;
 	if (global.picNum>1)

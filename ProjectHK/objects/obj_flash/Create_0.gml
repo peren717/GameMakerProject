@@ -1,2 +1,2 @@
 alarm[0] = 15;
-depth = -2;
+depth = -9999;
