@@ -26,7 +26,7 @@
         "f03d7d82-b8f2-453d-94d4-9838baff19c4"
     ],
     "filterType": "GMObject",
-    "folderName": "Texts",
+    "folderName": "UI",
     "isDefaultView": false,
     "localisedFolderName": ""
 }

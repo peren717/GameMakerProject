@@ -6,10 +6,10 @@ if(mouse_check_button_pressed(mb_left) && obj_timer.remainingTime>0 && global.am
 	screen_save_part(working_directory +"game"+string(global.gameNum)+"\\\Pictures\\\pic_"+string(global.picNum)+".png",x-240,y-120,480,240);
 	show_debug_message("pic taken" + string(global.picNum))
 	global.picNum++;
-	pic = instance_create_depth(830-global.picNum*5,600-global.picNum*5,0,obj_pic);
+	pic = instance_create_depth(830-global.picNum*5,600-global.picNum*5,-99999,obj_pic);
 	global.pics[global.picNum-1] = pic;
 	global.ammu--;
-	instance_create_layer(0,0,"Instances",obj_flash);
+	instance_create_layer(0,0,"UI",obj_flash);
 	sprite_index = spr_lensView;
 }
 
