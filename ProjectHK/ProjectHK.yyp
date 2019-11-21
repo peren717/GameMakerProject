@@ -1519,6 +1519,14 @@
             }
         },
         {
+            "Key": "fa3b1dfa-a778-4d46-a374-212d49a3e4e6",
+            "Value": {
+                "id": "f5f3692a-f324-42a9-bf68-739524bf7cf6",
+                "resourcePath": "objects\\obj_peaceMaker\\obj_peaceMaker.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "fc2811b9-9ec0-49af-9d35-a32add0ee004",
             "Value": {
                 "id": "c0c7f438-c669-4e14-b615-c1669c834fd2",

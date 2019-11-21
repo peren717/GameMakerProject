@@ -8,10 +8,12 @@ if x>room_width
 direction = 180;	
 }
 
-if x<room_width/2
+if x<room_width/2+30
 {
 	direction = 0;
 }
+
+depth= -y;
 
 if y<318 || y>668
 {
