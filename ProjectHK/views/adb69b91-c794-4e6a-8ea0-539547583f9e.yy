@@ -14,14 +14,11 @@
         "354521d8-6f89-481b-810d-3a7f337482e3",
         "628d1e40-a096-407c-a007-4f80a6f1652e",
         "79c973fa-89a4-4cce-88be-e1dc198f4cc0",
-        "16606fb2-7809-42a8-982a-a5a8ec851b13",
         "b43747fe-727d-4337-be2c-a026724adce0",
         "0bc6203c-a813-4ee1-9791-c55cd55d2e1a",
         "758a090f-b2eb-4d19-90d9-ff25ebfc8013",
         "a0ce7828-bed5-426e-b59e-4a7dd73e5366",
-        "481940cd-8a3e-40f9-afb6-b269da19f560",
-        "3e241520-b534-4746-9227-0e46a2b87349",
-        "579a2c79-9494-48f8-8d23-b53a7d698a46"
+        "481940cd-8a3e-40f9-afb6-b269da19f560"
     ],
     "filterType": "GMSprite",
     "folderName": "Text and UI",
