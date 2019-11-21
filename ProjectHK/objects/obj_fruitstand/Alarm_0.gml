@@ -1,2 +1,1 @@
-room_goto(rm_main);
-score=50;
+room_goto(rm_intro);
