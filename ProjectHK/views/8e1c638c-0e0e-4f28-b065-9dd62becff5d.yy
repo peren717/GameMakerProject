@@ -12,7 +12,8 @@
         "39b97b9b-dcc4-465c-aa1e-6245e1e7b112",
         "c2d84504-d836-4090-abb6-37ca61f7bc70",
         "8e779593-d91c-43ab-97d9-a487eba344f9",
-        "899f6178-3ebb-4c4a-b340-563d20c927fc"
+        "899f6178-3ebb-4c4a-b340-563d20c927fc",
+        "1346ca83-4c1f-45af-b51f-7f3a3f83a23e"
     ],
     "filterType": "GMSprite",
     "folderName": "Citizens",
