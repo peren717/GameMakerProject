@@ -16,7 +16,8 @@
         "67d9a763-60dc-4a0e-9d43-4d51c78e7875",
         "2b138070-41c9-47f6-ad76-8254757ea462",
         "fa3b1dfa-a778-4d46-a374-212d49a3e4e6",
-        "80d2b5ac-1681-4ba3-a4d2-c856960b8b8a"
+        "80d2b5ac-1681-4ba3-a4d2-c856960b8b8a",
+        "0e665c66-f5a4-459d-8fc1-c0a7cf71ad51"
     ],
     "filterType": "GMObject",
     "folderName": "Characters",

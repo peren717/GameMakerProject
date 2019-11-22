@@ -151,6 +151,14 @@
             }
         },
         {
+            "Key": "0e665c66-f5a4-459d-8fc1-c0a7cf71ad51",
+            "Value": {
+                "id": "bd355004-6117-492c-b834-6af34b65f117",
+                "resourcePath": "objects\\obj_newsman\\obj_newsman.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1074697e-fc36-4083-9162-a0d002ab9839",
             "Value": {
                 "id": "6a204ab7-e32e-4a92-b853-e3811d97302a",
@@ -180,6 +188,14 @@
                 "id": "efd347f0-7da3-4d48-87e3-f6ba8b5d0390",
                 "resourcePath": "views\\128071f0-702d-4fdf-b503-23d6287d2ed0.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "1346ca83-4c1f-45af-b51f-7f3a3f83a23e",
+            "Value": {
+                "id": "3d525c10-438b-49fe-a229-5fa2710761bd",
+                "resourcePath": "sprites\\spr_newman\\spr_newman.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -527,6 +543,14 @@
             }
         },
         {
+            "Key": "521a3d40-3931-49fb-918a-ed737c6d1076",
+            "Value": {
+                "id": "b58c020e-a651-4163-931d-1de693f1ce63",
+                "resourcePath": "sprites\\spr_citycenter_newsroom\\spr_citycenter_newsroom.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5497f7b2-10e9-4eca-b895-d5e93f4796c5",
             "Value": {
                 "id": "477f6234-1196-4df9-930c-1c601252d8be",
@@ -611,6 +635,14 @@
             "Value": {
                 "id": "d385e2ca-abf9-4ec4-b198-40aaee217894",
                 "resourcePath": "sprites\\spr_citizen_injured\\spr_citizen_injured.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6465d1ea-b97d-4738-8220-e9e17b2d3373",
+            "Value": {
+                "id": "39d7419d-e67b-4fbf-aa9d-457701cd627d",
+                "resourcePath": "sprites\\spr_samplecity\\spr_samplecity.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1467,6 +1499,14 @@
             "Value": {
                 "id": "42fec798-0e13-4067-b188-fe5e716cafbe",
                 "resourcePath": "rooms\\rm_lose\\rm_lose.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "cac51cc0-7825-47db-8a1a-acfd7c4c6ba5",
+            "Value": {
+                "id": "0a8d1237-9bc1-49bd-b46f-b119c06bf6c1",
+                "resourcePath": "rooms\\rm_hiddenEnding\\rm_hiddenEnding.yy",
                 "resourceType": "GMRoom"
             }
         },
