@@ -13,7 +13,7 @@ exit;
 //	alarm_set(1,irandom_range(270,540));
 //}
 
-if (keyboard_check_released(vk_space) && score>10)
+if (keyboard_check_released(vk_space) && score>10 && rioterNum <= 10)
 {
 	audio_play_sound(snd_cash,0,false);
 	score-=10;
