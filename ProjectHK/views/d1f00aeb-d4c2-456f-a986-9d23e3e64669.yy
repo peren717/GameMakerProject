@@ -13,7 +13,10 @@
         "5497f7b2-10e9-4eca-b895-d5e93f4796c5",
         "3273c939-2713-4573-ac2d-2ba5e3d17f11",
         "14401a00-be40-4dcf-b3ca-aa507d994ca0",
-        "33eddd2c-5e20-400f-8325-712175907519"
+        "33eddd2c-5e20-400f-8325-712175907519",
+        "ad1d69a6-c5cf-4f51-b774-07afcb122c96",
+        "c252cfb7-fdca-485e-a9d7-c1fd4cf77d50",
+        "6379517b-5507-49eb-95b6-d1278c3a5251"
     ],
     "filterType": "GMObject",
     "folderName": "Story",
