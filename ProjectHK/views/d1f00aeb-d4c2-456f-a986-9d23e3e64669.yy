@@ -17,7 +17,13 @@
         "ad1d69a6-c5cf-4f51-b774-07afcb122c96",
         "c252cfb7-fdca-485e-a9d7-c1fd4cf77d50",
         "6379517b-5507-49eb-95b6-d1278c3a5251",
-        "c9b354aa-d91b-4338-89c5-d5e8d4a73c77"
+        "c9b354aa-d91b-4338-89c5-d5e8d4a73c77",
+        "0653f533-2c2b-490e-99ae-fb30d32cc89c",
+        "4af47062-061e-4449-99bb-fbf8d1f3296b",
+        "7c043bad-9bea-4263-9eb1-50c8cfacd708",
+        "1ce38343-58a0-4dfa-a397-a4c1dd521b09",
+        "cf894232-c489-459d-b64e-f4148cabc4cb",
+        "1194978f-d769-4401-ba0d-cffefc4a2e1f"
     ],
     "filterType": "GMObject",
     "folderName": "Story",

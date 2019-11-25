@@ -9,3 +9,8 @@ if hp <=0
 	instance_create_depth(x,y,0,obj_cop_flee);
 	instance_destroy(self);
 }
+
+if score >=800
+{
+	instance_destroy(self);
+}

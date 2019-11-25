@@ -9,7 +9,7 @@ if alarm[0] = 0
 		{
 			instance_create_layer(x,y,"Instances",obj_egg);
 		}
-		else if (score<200)
+		else if (score<500)
 		{
 			instance_create_layer(x,y,"Instances",obj_brick);
 		}

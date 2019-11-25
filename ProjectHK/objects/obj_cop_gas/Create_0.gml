@@ -5,7 +5,7 @@ hp =3;
 depth = -y;
 alarm[0]=random_range(90,180);
 
-if score<=200
+if score <800
 {
 	instance_destroy(self);
 }

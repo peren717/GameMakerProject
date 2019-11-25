@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "0653f533-2c2b-490e-99ae-fb30d32cc89c",
+            "Value": {
+                "id": "61190000-4717-40cd-98cf-c50733bb70ea",
+                "resourcePath": "objects\\obj_news2\\obj_news2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0666eeeb-0a0e-4514-8287-624eb9af2f89",
             "Value": {
                 "id": "acff764c-3a43-4a3e-b81c-f9f8e0397f66",
@@ -175,6 +183,14 @@
             }
         },
         {
+            "Key": "1194978f-d769-4401-ba0d-cffefc4a2e1f",
+            "Value": {
+                "id": "8f78d493-8a6c-48f4-a359-0209c94ec59a",
+                "resourcePath": "objects\\obj_news7\\obj_news7.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "123cb71f-f847-41b9-affe-47ab0b9164a6",
             "Value": {
                 "id": "8841f21b-4c2f-45aa-ae92-318f750242a3",
@@ -268,6 +284,22 @@
                 "id": "88265498-6eab-4190-a1c5-a2c097f62982",
                 "resourcePath": "sprites\\spr_storyEnd1\\spr_storyEnd1.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "1cc95139-9380-47ae-aece-ab3442a9cadf",
+            "Value": {
+                "id": "c25e5a44-5b28-4b3a-b51b-73a6453d158a",
+                "resourcePath": "objects\\obj_dead_shoprioter\\obj_dead_shoprioter.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "1ce38343-58a0-4dfa-a397-a4c1dd521b09",
+            "Value": {
+                "id": "a6fc2da8-f340-4137-9691-e95ec07b4227",
+                "resourcePath": "objects\\obj_news5\\obj_news5.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -372,6 +404,14 @@
                 "id": "a3ac9ac0-5c7c-4e45-96cf-fc1579b6e84c",
                 "resourcePath": "rooms\\rm_final\\rm_final.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "2d355918-d004-4640-bc20-b31eb8b6edf1",
+            "Value": {
+                "id": "b84a1e90-c3f2-45c6-b683-fa665512799f",
+                "resourcePath": "sprites\\spr_news6\\spr_news6.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -543,6 +583,14 @@
             }
         },
         {
+            "Key": "4af47062-061e-4449-99bb-fbf8d1f3296b",
+            "Value": {
+                "id": "048e8faf-3f0a-4e48-b9a1-bb95c35ef337",
+                "resourcePath": "objects\\obj_news3\\obj_news3.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "4e1132d5-2622-4a34-9ae5-3ce549965465",
             "Value": {
                 "id": "7b7155a7-ce78-4155-9642-efe3ebe37c14",
@@ -588,6 +636,14 @@
                 "id": "9b70fc44-e9b2-4546-8f56-d7027411e005",
                 "resourcePath": "sprites\\spr_story2\\spr_story2.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "59c4212d-c405-4e6c-9f34-838bc25c7b5d",
+            "Value": {
+                "id": "42b08ee4-a554-4f0f-becb-2c9ba1e01f23",
+                "resourcePath": "scripts\\scr_throwsCopRioter\\scr_throwsCopRioter.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -879,6 +935,14 @@
             }
         },
         {
+            "Key": "7c043bad-9bea-4263-9eb1-50c8cfacd708",
+            "Value": {
+                "id": "136ab0ad-ac9f-49de-a50b-588d27b1f5a2",
+                "resourcePath": "objects\\obj_news4\\obj_news4.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7c18ecba-7df6-492e-918a-407619de65f9",
             "Value": {
                 "id": "059f870a-e756-4bdf-9b22-a3828d5d4b78",
@@ -975,6 +1039,14 @@
             }
         },
         {
+            "Key": "8593c1cd-a16f-466c-94fb-524a5b3a912e",
+            "Value": {
+                "id": "d056f477-8dc4-4911-9cd7-08fa3998f46e",
+                "resourcePath": "scripts\\scr_throwsCitizen\\scr_throwsCitizen.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "85bff427-dc48-4f30-bd25-5038f81db883",
             "Value": {
                 "id": "4aed099d-a6b7-41c5-8e33-e476cd2ae244",
@@ -1003,6 +1075,14 @@
             "Value": {
                 "id": "2eba18f5-605a-44fe-9f22-852ebc8c6a38",
                 "resourcePath": "sprites\\spr_citycenter_night\\spr_citycenter_night.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8904f094-414e-436b-9b9c-6dab97e5fdde",
+            "Value": {
+                "id": "9a2e3c1a-a287-4e6e-8a53-4101ab11036c",
+                "resourcePath": "sprites\\spr_news7\\spr_news7.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1055,10 +1135,26 @@
             }
         },
         {
+            "Key": "8bdf65b5-7f0c-4448-a99c-5b6e80b21886",
+            "Value": {
+                "id": "ed31dd67-373a-4624-8613-cd4f9bab4f0a",
+                "resourcePath": "sprites\\spr_news5\\spr_news5.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8dca3c46-767b-4970-b30c-16d88a2622d0",
             "Value": {
                 "id": "1c4d8810-5273-4bde-bd10-2c6361836ab5",
                 "resourcePath": "sprites\\spr_cop_rioter_down\\spr_cop_rioter_down.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8e106457-70ab-4d27-8737-c9fc3876fe43",
+            "Value": {
+                "id": "41abbb8f-1161-4c39-b9ee-fcdc270041b1",
+                "resourcePath": "sprites\\spr_news3\\spr_news3.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1076,6 +1172,14 @@
                 "id": "7b059462-7993-43d2-82e2-4a772b26027b",
                 "resourcePath": "sprites\\spr_shopassistant_cry\\spr_shopassistant_cry.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8e89216c-9940-4544-b64d-b2249d9161c1",
+            "Value": {
+                "id": "8a5fd4d5-fed4-4a1a-af1c-4418d5902d1e",
+                "resourcePath": "objects\\obj_shoprioter\\obj_shoprioter.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1183,6 +1287,14 @@
             }
         },
         {
+            "Key": "9b8e9006-0c08-4ed9-a354-f4e9b5e7ebbc",
+            "Value": {
+                "id": "8d4c598c-a559-4dff-8bf6-a1c2e951afb6",
+                "resourcePath": "objects\\obj_citizenrioter\\obj_citizenrioter.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9bc6d343-8a64-4591-a7ab-bbf146406c2d",
             "Value": {
                 "id": "24ee891e-40ec-4ac0-8ede-692b95094437",
@@ -1199,11 +1311,27 @@
             }
         },
         {
+            "Key": "9de5903b-0641-48c3-abd0-a48c758da30d",
+            "Value": {
+                "id": "25fd2ef0-198b-4c35-be93-886a78a5aa0f",
+                "resourcePath": "sprites\\spr_news4\\spr_news4.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a01400fd-0403-4f18-8162-aa1b06fb40d9",
             "Value": {
                 "id": "e38441f7-00c1-4f19-a4aa-507c2d45d6ab",
                 "resourcePath": "sprites\\spr_storyEnd2\\spr_storyEnd2.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a08893c8-ea12-4a82-9713-9550acee3395",
+            "Value": {
+                "id": "4c216b4b-433c-4f71-b797-9417580b6beb",
+                "resourcePath": "objects\\obj_coprioter\\obj_coprioter.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1463,6 +1591,14 @@
             }
         },
         {
+            "Key": "bfbfb789-61cd-4067-8374-fc29f474ee70",
+            "Value": {
+                "id": "a8b69e75-7519-40c0-bb84-136c64dde2f7",
+                "resourcePath": "scripts\\scr_throwsShop\\scr_throwsShop.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "c02f4f47-c84d-439b-b6ab-e7032356f32e",
             "Value": {
                 "id": "e4e1f73e-b8d3-48f5-8c9c-bdcefed916b0",
@@ -1508,6 +1644,14 @@
                 "id": "7682bbb1-f6a1-4937-9be8-7e894d748158",
                 "resourcePath": "sprites\\spr_shopassistant\\spr_shopassistant.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c3c1652d-05c9-490c-a83c-aabeb08bd9f4",
+            "Value": {
+                "id": "35570ecd-c62d-468f-b94f-7fd5279050c2",
+                "resourcePath": "objects\\obj_dead_coprioter\\obj_dead_coprioter.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1628,6 +1772,14 @@
                 "id": "9dcfba8e-e64a-4a55-a305-ecdb57163697",
                 "resourcePath": "sounds\\snd_cash\\snd_cash.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "cf894232-c489-459d-b64e-f4148cabc4cb",
+            "Value": {
+                "id": "da2198e1-25c4-4745-a31f-4374685bffb8",
+                "resourcePath": "objects\\obj_news6\\obj_news6.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1935,6 +2087,14 @@
             }
         },
         {
+            "Key": "fabc9d9d-3805-4dd3-99a2-8cc89080bb7b",
+            "Value": {
+                "id": "99f4b428-e1c9-4c57-bf81-9c83b6494b94",
+                "resourcePath": "objects\\obj_dead_citizenrioter\\obj_dead_citizenrioter.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "fc2811b9-9ec0-49af-9d35-a32add0ee004",
             "Value": {
                 "id": "c0c7f438-c669-4e14-b615-c1669c834fd2",
@@ -1978,6 +2138,9 @@
         "871949e7-365b-420c-bda5-8be92214c409",
         "c830e7d8-30d6-4dcf-b951-28a2849c3e65",
         "99461f63-db2f-44e4-bc8a-2e0872714480",
+        "bfbfb789-61cd-4067-8374-fc29f474ee70",
+        "8593c1cd-a16f-466c-94fb-524a5b3a912e",
+        "59c4212d-c405-4e6c-9f34-838bc25c7b5d",
         "b538d8ad-d4be-4868-98be-c3ab4328411b",
         "7b617910-2375-46b7-9e2d-16ffee783174",
         "c5e5033b-1d70-4c3a-b36a-727ee339b671",
