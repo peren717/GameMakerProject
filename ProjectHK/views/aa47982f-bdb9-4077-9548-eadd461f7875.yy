@@ -16,7 +16,9 @@
         "901ca7ab-80f4-4d32-a652-de4462a08df1",
         "3fbe0e7e-3ad1-4e02-a5c8-976c44d72e5f",
         "b2b5cd14-9026-44f0-b3fd-53d3b654dd0a",
-        "1a792cbb-7a20-46c0-96ec-6f6d70b1d2a5"
+        "1a792cbb-7a20-46c0-96ec-6f6d70b1d2a5",
+        "a0cbeb24-bed9-469e-929e-b4b15369f22c",
+        "8928b8a2-cd05-4e6e-8949-6ab7b387d436"
     ],
     "filterType": "GMSprite",
     "folderName": "Story",
