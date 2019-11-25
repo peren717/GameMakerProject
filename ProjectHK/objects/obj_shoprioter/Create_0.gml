@@ -1,5 +1,5 @@
 hp = 1;
-speed = 3;
+speed = 12;
 direction = random_range(0,360);
 alarm[0] = 30;
 isOnFire = false;

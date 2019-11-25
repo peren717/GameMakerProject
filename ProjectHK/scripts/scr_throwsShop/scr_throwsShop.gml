@@ -23,5 +23,5 @@ if alarm[0] = 0
 if alarm[1] = 0
 {
 	sprite_index = spr_shopassistant_rioter_stand;	
-	speed = 3;
+	speed = 12;
 }
