@@ -1,4 +1,4 @@
-if score >= 100 {
+if score >= 150 {
 	instance_create_depth(640,256,-99,obj_news2);
 	instance_destroy(obj_news);
 }

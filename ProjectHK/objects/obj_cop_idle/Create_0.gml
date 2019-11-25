@@ -1,4 +1,4 @@
 point = 3;
 isOnFire = false;
-hp =3;
+hp =4;
 depth = -y;
