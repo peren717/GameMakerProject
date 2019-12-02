@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "06e5fb50-ff77-483b-83fb-8101371624ec",
+            "Value": {
+                "id": "8fb46023-71cb-4f84-9710-70c8adf9b004",
+                "resourcePath": "sprites\\spr_citycenter_sampleTitle\\spr_citycenter_sampleTitle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "076c8569-faf1-4e0a-9a94-aa1e73675546",
             "Value": {
                 "id": "c1ce39aa-449b-4f9b-859a-8b1275b47d51",
