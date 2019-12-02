@@ -303,6 +303,14 @@
             }
         },
         {
+            "Key": "1d9a2bf0-2d80-4f2f-8a3d-db992b2393ed",
+            "Value": {
+                "id": "f094577e-c74e-45c7-a104-cbe87cdc5f88",
+                "resourcePath": "sprites\\spr_introWords\\spr_introWords.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1ededf00-8631-4405-956e-0408b6e8d11b",
             "Value": {
                 "id": "40443adb-1137-4de4-938c-44bc4bab6f43",
