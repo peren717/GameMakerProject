@@ -930,7 +930,7 @@
             "Key": "7b223afb-9a5e-427e-848e-590fd2394fe8",
             "Value": {
                 "id": "9f096269-5b76-4278-b4c0-772c03f2925e",
-                "resourcePath": "objects\\obj_button\\obj_button.yy",
+                "resourcePath": "objects\\obj_button_hidden\\obj_button_hidden.yy",
                 "resourceType": "GMObject"
             }
         },
