@@ -847,6 +847,14 @@
             }
         },
         {
+            "Key": "72d2ae61-4565-4565-8339-190adad71e75",
+            "Value": {
+                "id": "3369f122-2d71-4475-8e17-2c11f82dfffe",
+                "resourcePath": "sprites\\spr_citycenter_nightSample\\spr_citycenter_nightSample.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "72ea87d3-5c30-4d2c-9128-72f907d588fa",
             "Value": {
                 "id": "d4c90fc8-d48c-4755-a94d-32a22a8771ba",
@@ -1887,6 +1895,14 @@
             }
         },
         {
+            "Key": "d6aed620-8bec-42a0-8f7a-3daf36372891",
+            "Value": {
+                "id": "a783c963-958f-457a-b282-b5158d4a4e06",
+                "resourcePath": "sprites\\spr_citycenter_afternoonSample\\spr_citycenter_afternoonSample.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d7e84388-f996-4f17-bc3f-5443be7781da",
             "Value": {
                 "id": "e57bedf8-e50b-4752-965d-d3881307b586",
@@ -1956,6 +1972,14 @@
                 "id": "40862111-1ce7-47cf-bc9f-46e825633234",
                 "resourcePath": "views\\e5cb23c2-3458-4392-88db-0c9c3c100d4f.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e5e3183b-1bd9-428a-b0ce-e9842794e083",
+            "Value": {
+                "id": "a7b344af-c8c9-48b6-b8a8-9c64fdac8615",
+                "resourcePath": "sprites\\spr_titleBackground_Ingame1\\spr_titleBackground_Ingame1.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
