@@ -18,6 +18,8 @@ if (mouse_check_button_released(mb_left))
 		global.ammu = 10;
 		score = 0;
 		global.bp=0;
+		global.shopExist = 0;
+		global.citizenExist = 0;
 		scr_write("money",0);
 		scr_write("ammu",10);
 		scr_write("score",0);	
