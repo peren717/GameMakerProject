@@ -775,6 +775,14 @@
             }
         },
         {
+            "Key": "6876412d-0032-45b4-a242-073ba57d319e",
+            "Value": {
+                "id": "c10da52b-d54b-449e-91ec-ef2b2806a3ad",
+                "resourcePath": "sprites\\spr_peaceIntro\\spr_peaceIntro.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "69aa25d9-3baf-4ddd-816e-bcd433d7bd8c",
             "Value": {
                 "id": "69133e83-4f8d-4e0e-9507-504185dedfde",
@@ -1271,6 +1279,14 @@
             }
         },
         {
+            "Key": "96ea51e5-2775-415e-84d5-f71c35c077ed",
+            "Value": {
+                "id": "2f2e4f9a-efbf-403e-a8c1-981560af6b4e",
+                "resourcePath": "sprites\\spr_endgame\\spr_endgame.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "97a78363-0ee4-47b7-b515-e42ab320c4af",
             "Value": {
                 "id": "642af861-25bf-4c59-a39f-b5fc3afb975f",
@@ -1407,6 +1423,14 @@
             }
         },
         {
+            "Key": "a854e051-3b35-4693-abb1-b2f736f1534f",
+            "Value": {
+                "id": "caf9ca40-370f-4b32-a8d0-21559d71a350",
+                "resourcePath": "sprites\\spr_citycenter_animation\\spr_citycenter_animation.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "b8324f6c-2bee-477d-b408-2ab91fbc2945",
@@ -1452,6 +1476,14 @@
                 "id": "050371e8-ed1f-45a9-ab5f-befbcaef15d0",
                 "resourcePath": "views\\adb69b91-c794-4e6a-8ea0-539547583f9e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b0fc1861-f251-4449-b9f4-26796d907de2",
+            "Value": {
+                "id": "0d120eb2-150c-4a80-8462-ecc405379c1a",
+                "resourcePath": "sprites\\spr_citycenter_sample\\spr_citycenter_sample.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -2164,6 +2196,14 @@
                 "id": "532fd8b8-bd5f-43eb-b56c-5cd5a3778fa9",
                 "resourcePath": "objects\\obj_brick\\obj_brick.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "fe862caf-8272-4278-822e-4e7ef424a0b1",
+            "Value": {
+                "id": "80376dbb-7a5a-45b0-b786-59ee61f33f84",
+                "resourcePath": "rooms\\rm_peaceIntro\\rm_peaceIntro.yy",
+                "resourceType": "GMRoom"
             }
         }
     ],
